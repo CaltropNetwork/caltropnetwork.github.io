@@ -1,5 +1,3 @@
 # Caltrop FastDL
 
-This is our FastDL "server". 
-
-This repo is over 1 GB, it is not recommended to clone it for page-related PRs.
+This is our main FastDL page. The PF2 and CS:S content files are in seperate repos.
